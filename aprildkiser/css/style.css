@@ -1,0 +1,42 @@
+
+.image-fluid {
+	max-width: 100%;
+	height: auto;
+}
+
+
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	color: #0000b3;
+}
+
+.skillset {
+	font-size: 35px;
+	color: #660066;
+}
+
+.portfolio-container {
+text-align: center;
+font-size: 35px;
+}
+
+#daisy-color a:visited {
+	color: #6c3483;
+	text-decoration: none;
+}
+
+#kennel-color a:visited {
+	color: #f3c;
+	text-decoration: none;
+}
+
+#companion-color a:visited {
+	color: #360;
+	text-decoration: none;
+}
+
+.contact-section {
+	text-align: center;
+}
